@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **NextJs**
 
 - 📫 How to reach me **althafalah148@gmail.com** 
-- ## My Skill Set  
+<h1 align="center">Skills</h1> 
 <table align="center"><tr><td valign="top" width="33%">
 
 
